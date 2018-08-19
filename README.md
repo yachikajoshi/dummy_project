@@ -1,2 +1,2 @@
-# dummy_project
+# LinkingActivity
 dummy
